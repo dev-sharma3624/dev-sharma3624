@@ -1,43 +1,61 @@
-<h1 align="center">Hi 👋, I'm Dev Sharma</h1>
-<h3 align="center">A passionate Android App Developer from India</h3>
+<h1 align="center">Hi, I'm Dev Sharma 👋</h1>
+<h3 align="center">Android App Developer | Passionate about building clean, modern, and scalable mobile apps</h3>
 
-- 🌱 I’m currently learning **Android App development.**
+---
 
-- 📫 How to reach me **devsharma.3624@gmail.com**
+### 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dev sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devsharma3624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devsharma3624" height="30" width="40" /></a>
-<a href="https://twitter.com/devsharma3624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsharma3624" height="30" width="40" /></a>
-</p>
+- 🎓 BCA student at Vivekananda Institute of Professional Studies (2023–2026)  
+- 🛠 Focused on building efficient Android applications with modern architecture  
+- 🔁 Continuous learner with a passion for problem-solving  
+- 🏆 Runner-up at Don Bosco Institute of Technology Hackathon  
+- 📍 Based in Delhi, India  
+- 📫 Reach me at: **devsharma.3624@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sharma3624&show_icons=true&locale=en&layout=compact" alt="dev-sharma3624" /></p>
+### 🚀 What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-sharma3624&show_icons=true&locale=en" alt="dev-sharma3624" /></p>
+- Build native Android apps using **Kotlin**, **Jetpack Compose**, and **MVVM**
+- Use **Room**, **Firebase**, **Koin** and **Hilt** to handle data and architecture
+- Focus on clean UI/UX, performance, and compatibility across devices
+- Currently developing *QuickCast* – a real-time update system using SMS
 
-<!--## Hi there 👋
+---
 
-**dev-sharma3624/dev-sharma3624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+**Mobile Development**  
+`Kotlin` `Jetpack Compose` `Room Database` `MVVM` `Hilt`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & Databases**  
+`Java Springboot` `Firebase` `SQLite` `MySQL`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Android Studio`
+
+**Languages**  
+`Kotlin` `Java` 
+
+---
+
+### 💼 Projects
+
+- **QuickCast** *(Ongoing)*  
+  Real-time data sync app using SMS for seamless device communication. Designed for low-connectivity environments.
+
+- **Trackmate**  
+  Task management app with AlarmManager scheduling, custom UI, and Room database. Uses Hilt for dependency injection and clean architecture.
+
+- **Chatting Application**  
+  Real-time chat app built with Firebase Auth and Firestore. Uses coroutines, callbackFlow, and a fully Compose-based UI.
+
+- **Drawing Application**  
+  Canvas-based drawing app using Android’s Bitmap, Paint, and Activity Result APIs. Supports saving, sharing, and cross-version compatibility.
+
+---
+
+### 📌 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Sharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dev-sharma-465759307)  
+[![Twitter](https://img.shields.io/badge/Twitter-@devsharma3624-1DA1F2?style=flat-square&logo=twitter)](https://x.com/DevSharma3624)
