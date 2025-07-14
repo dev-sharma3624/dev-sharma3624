@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 BCA student at Vivekananda Institute of Professional Studies (2023–2026)  
+- 🎓 Student at Vivekananda Institute of Professional Studies (2023–2026)  
 - 🛠 Focused on building efficient Android applications with modern architecture  
 - 🔁 Continuous learner with a passion for problem-solving  
 - 🏆 Runner-up at Don Bosco Institute of Technology Hackathon  
